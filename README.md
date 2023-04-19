@@ -1,2 +1,4 @@
-# npx create-react-app pwplataformers
+# Para crear un proyecto con react.
+
+## npx create-react-app pwplataformers
 
