@@ -68,18 +68,18 @@ header, nav, section, article, aside, footer, hgroup {
   box-sizing: border-box;
 }
 
-div.col-12{
-  /* background-color: black; */
-
-}
 
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color: #ffffff;
+  /* background-color: red; */
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+hr {
+  border: solid 3px blue;
 }
 
 a {
@@ -99,7 +99,7 @@ p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 300;
-  color: #afafaf;
+  color: black;
 }
 
 img {
@@ -109,8 +109,8 @@ img {
 
 
 img.logo{
-  width: 140px;
-  height: 140px;
+  width: 145px;
+  height: 145px;
   background-color: black;
   border-radius: 80%;
 }
@@ -122,7 +122,7 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: white;
   font-family: 'Poppins', sans-serif;
 }
 
